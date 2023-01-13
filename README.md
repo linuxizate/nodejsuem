@@ -1,7 +1,7 @@
 # nodejsuem
 # Repositorio para nuestro curso de kubernetes
-# Repositorio para la creacion de nuestra web
-# Codigo creado por Javier Manzanares
+Repositorio para la creacion de nuestra web
+Codigo creado por Javier Manzanares
  
 Para este tutorial, necesitará lo siguiente:
 
